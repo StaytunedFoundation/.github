@@ -2,7 +2,7 @@ name: Epic 🏔️
 description: Large work split into smaller tasks
 title: '|'
 type: 'Epic 🏔️'
-projects: []
+projects: ["StaytunedLLP/43"]
 
 body:
   - type: markdown
